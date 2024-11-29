@@ -10,3 +10,4 @@ https://challenge.xfyun.cn/topic/info?type=management-health
 本次竞赛的评价标准采用AUC ，即AUC越高，效果越好。评估代码参考
 # LB
 AUC0.99424 第三名
+![image](https://github.com/user-attachments/assets/4c19b44e-a6a6-47af-a2ec-9e3ba37d5067)
